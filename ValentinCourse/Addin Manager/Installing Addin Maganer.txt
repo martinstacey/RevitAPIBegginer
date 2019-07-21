@@ -1,0 +1,24 @@
+Install an add-in to make it available in the Revit software.
+
+To download and install an add-in, you must be an Autodesk subscriber of a supported Revit product or suite, or have an Autodesk Education account.
+
+To install an add-in from the Autodesk App Store
+
+Exit Revit.
+Go to the Revit page at the Autodesk App Store.
+If needed, click Please Sign in First, and sign into your Autodesk account.
+Autodesk checks your status.
+
+Select an add-in and click the blue Download button to download the installation file.
+After the download completes, click or double-click the file to start the installation process.
+Follow the prompts.
+To install an add-in from your Autodesk Account page
+
+Go to accounts.autodesk.com, and sign into your Autodesk account.
+At the top of the page, click Management.
+In the left pane under Products & Services, click Products.
+In the list of products, locate the desired Revit add-in, and click Download now.
+Note: If the desired add-in is not listed, you may have already downloaded it, or your account does not have access to it. Contact Support for help.
+After the download completes, click or double-click the file to start the installation process.
+Follow the prompts.
+When you start Revit, the Add-in tab displays between the Manage tab and the Modify tab.

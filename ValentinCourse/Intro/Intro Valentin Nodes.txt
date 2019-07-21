@@ -1,0 +1,61 @@
+
+18 FEBRUARY, 2017
+VALENTIN NOVES
+
+Among architects, civil engineers or Project managers is an odd thing to find a proffesional with programming skills, but this is a paradigm that is changing really fast
+
+There are multiple reasons why we should lean programming as Contruction Proffesionals:
+
+Master Software.jpg
+
+The first reason would be that is allows us to truly master our tools; When we learn how to code we start understanding more deeply the way the software we use on a daily basis works.
+
+Also, it is not a minor thing that by coding we gain the power to maximize the things we can do with our program, by developing customized solutions adapted to our specific necessities.
+
+Steve Jobs and Phrase.jpg
+
+As Steve Jobs Said, it is important because coding give us a background on a different way of thinking, so in the end this can lead us to benefit not only to the development of programmatic solutions but also to change the way we work in general.
+
+England and Name.jpg
+
+ 
+
+A clear example towards this paradigm is the case of the UK, who is the guinea pig for the most ambitious attempt yet to get kids coding, with changes to the national curriculum. ICT – Information and Communications Technology – is out, replaced by a new “computing” curriculum including coding lessons for children as young as five.
+
+ 
+
+ 
+
+toolbox.jpg
+
+Thousands of times I’ve heard people complaining of the software they use, being not able to do all the tasks they want due to constraints of the program and as a result they end up being frustrated and wasting a lot of time and money. Here is a good one for all of them, when you code you can not only create your own standalone applications but also start creating plugins for the software you use. For this purpose the software companies create an API(Application Programming Interface) that are a set of functions and procedures that allow the creation of applications which access the features or data of an operating system, application, or other services.
+
+Automatization.jpg
+
+Programming allow us to automatize processes and as a result we can do tasks  so much faster than we did in the past, this will lead in cost savings and also to a better quality, as we all know that when we have to do a task over and over again we get bored and when that happens people makes mistakes, but when you have something automatize you can guarantee that you will have exactly the same outcomes all the times.
+
+ 
+
+Ventaja Competitiva.jpg
+
+It is no secret that due to globalization, technology and communications every day it is more difficult to get decent clients in our industry, so when that happens everybody says that the best strategy is being sure that your services have and added value that gives you a competitive advantage. Base on this we can say that having coding skills perfectly fits in the “added value” description, so even if you don’t really know how this might help you, be sure that this will be a great goal to add to your career.
+
+Minion.jpgOn the contrary of what most people think, coding is extremely fun and when you start creating applications it gets really addictive, believe when I say that you will spend hours and hours of your spare time in front of the pc trying to create the perfect algorithm.
+
+Programming Languages Black.jpg
+
+Based on my experience as a programmer of Revit, AutoCAD, Dynamo and Grasshopper, I think your options should be one of the above Programming Languages (The 4 Languages are supported by the Revit API).
+
+All of them have different advantages and disadvantages, but If I have to choose a language for a beginner I would definitively go with Python; apart of the compatibility that this language has with many of the AEC design programs, I think it is the easiest one to learn as it is almost like being written in plain English and also it is used a lot for Data science and Data visualization that I think will be skill needed in the short term in the AEC industry.
+
+StepsToLearn English-01.jpg
+
+There are 4 steps that you should follow if you want to efficiently become a good programmer in the software that you use.
+
+First al all you need to learn how to use the software; I’ve seen many incredible programmers that don’t know what to program or creating tools that are not really useful for the actual users.
+Learn a Programming Language, this might seem really silly but is not; I’ve met many people that try to learn how to program an API without the appropriate Programming Languages skills and they end up in an infinite loop of try and error and in most cases not getting anywhere. So don’t waste your precious time just getting into the API without learning a languages, there are many free good tutorials online.
+Before starting to work on your API, you must have basic knowledge of how to properly develop software, for example the uses of GitHub, Databases, UML, etc.
+Finally search for the SDK(Software Development Kit) of your program and start learning how to use the API. If you have followed the steps that I told you before at this point it will be a piece of cake for you to develop anything you want.
+ArchitectDrawing.jpg
+
+Don’t be afraid, at the beginning programming might look at something really difficult and frustrating, but believe when I tell you the learning curve is steep at the beginning but you will quickly start to develop new solutions and you will see that the way you work and think will change a lot and you will starting seeing the benefits of it.
