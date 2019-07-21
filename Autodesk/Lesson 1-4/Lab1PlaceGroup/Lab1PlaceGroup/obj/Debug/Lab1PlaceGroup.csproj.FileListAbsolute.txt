@@ -1,0 +1,6 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\Autodesk\LESSON 1\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\Autodesk\LESSON 1\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.csproj.CoreCompileInputs.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\Autodesk\LESSON 1\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\Autodesk\LESSON 1\Lab1PlaceGroup\Lab1PlaceGroup\bin\Debug\Lab1PlaceGroup.pdb
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\Autodesk\LESSON 1\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\Autodesk\LESSON 1\Lab1PlaceGroup\Lab1PlaceGroup\obj\Debug\Lab1PlaceGroup.pdb
