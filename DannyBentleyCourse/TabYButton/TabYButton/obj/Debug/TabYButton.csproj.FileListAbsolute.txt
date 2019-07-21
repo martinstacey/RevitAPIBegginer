@@ -1,0 +1,2 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\TabYButton\TabYButton\obj\Debug\TabYButton.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\TabYButton\TabYButton\obj\Debug\TabYButton.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectMultipleParameters\SelectMultipleParameters\bin\Debug\SelectMultipleParameters.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectMultipleParameters\SelectMultipleParameters\bin\Debug\SelectMultipleParameters.pdb
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectMultipleParameters\SelectMultipleParameters\obj\Debug\SelectMultipleParameters.csproj.CoreCompileInputs.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectMultipleParameters\SelectMultipleParameters\obj\Debug\SelectMultipleParameters.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectMultipleParameters\SelectMultipleParameters\obj\Debug\SelectMultipleParameters.pdb

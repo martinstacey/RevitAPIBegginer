@@ -1,0 +1,6 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectParameter\SelectParameter\obj\Debug\SelectParameter.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectParameter\SelectParameter\obj\Debug\SelectParameter.csproj.CoreCompileInputs.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectParameter\SelectParameter\bin\Debug\SelectParameter.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectParameter\SelectParameter\bin\Debug\SelectParameter.pdb
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectParameter\SelectParameter\obj\Debug\SelectParameter.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\SelectParameter\SelectParameter\obj\Debug\SelectParameter.pdb
