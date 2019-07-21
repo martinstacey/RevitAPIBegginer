@@ -1,0 +1,6 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\BuildInParameters\BuildInParameters\bin\Debug\BuildInParameters.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\BuildInParameters\BuildInParameters\bin\Debug\BuildInParameters.pdb
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\BuildInParameters\BuildInParameters\obj\Debug\BuildInParameters.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\BuildInParameters\BuildInParameters\obj\Debug\BuildInParameters.csproj.CoreCompileInputs.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\BuildInParameters\BuildInParameters\obj\Debug\BuildInParameters.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\BuildInParameters\BuildInParameters\obj\Debug\BuildInParameters.pdb

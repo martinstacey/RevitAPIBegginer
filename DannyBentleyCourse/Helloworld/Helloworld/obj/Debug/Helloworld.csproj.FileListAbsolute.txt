@@ -1,0 +1,6 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\Helloworld\Helloworld\obj\Debug\Helloworld.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\Helloworld\Helloworld\obj\Debug\Helloworld.csproj.CoreCompileInputs.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\Helloworld\Helloworld\bin\Debug\Helloworld.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\Helloworld\Helloworld\bin\Debug\Helloworld.pdb
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\Helloworld\Helloworld\obj\Debug\Helloworld.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\Helloworld\Helloworld\obj\Debug\Helloworld.pdb

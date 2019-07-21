@@ -1,0 +1,6 @@
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\GetSetParameters\GetSetParameters\bin\Debug\GetSetParameters.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\GetSetParameters\GetSetParameters\bin\Debug\GetSetParameters.pdb
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\GetSetParameters\GetSetParameters\obj\Debug\GetSetParameters.csprojAssemblyReference.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\GetSetParameters\GetSetParameters\obj\Debug\GetSetParameters.csproj.CoreCompileInputs.cache
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\GetSetParameters\GetSetParameters\obj\Debug\GetSetParameters.dll
+D:\Clases y Trabajo\Trabajo\2018\Revit Api\DannyBentleyCourse\GetSetParameters\GetSetParameters\obj\Debug\GetSetParameters.pdb
